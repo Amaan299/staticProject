@@ -1,0 +1,114 @@
+
+#menu{
+    width: 100%;
+    height: 30vw;
+    background-image: url('images/cover1.jpg');
+    background-size: cover;
+  
+}
+
+#pivot{
+    color: #ffffff;
+}
+#intro{
+    color: #ffffff;
+    margin: 20em;
+}
+#intro ul li{
+    color: #ffffff;
+   
+}
+
+#future{
+    margin-top: 30px;
+    font-weight: 900;
+}
+
+.set{
+    font-size: 20px;
+    margin-top:1em;
+
+}
+ul div li {
+    margin: 0.5em;
+}
+#education{
+    width: 100%;
+    height: 17vw;
+    background-image: url('images/cover.jpg');
+    background-size: cover;
+    padding-top: 3em;
+    color: #ffffff;
+}
+#about{
+    width: 100%;
+    height: 20vw;
+    background-color: #e4e4e6;
+    padding-top: 5em;
+    color: #000000;
+}
+
+#foot{
+    background-color: #2c3e50;
+    color: #ffffff;
+    height: 10vw;
+    padding-top:2em;
+    widows: 100%; 
+}
+#skills{
+    padding: 4em;
+}
+
+#mail:hover{
+    color: blue;
+}
+.bord{
+    margin: 0px ;
+    width: 120px;
+    height: 120px;
+    border: 2px solid #000000;
+    background: rgba(255, 255, 255, 0.15);
+    text-align: center;
+    line-height: 116px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #000000;
+    border-radius: 50%;
+    margin-bottom: 12px;
+}
+h1{
+    align-items: left;
+    color: blue;
+}
+.hobbie {
+    margin-left: 50px;
+    color:blueviolet;
+}
+.free {
+    margin-left: 50px;
+    color: green;
+}
+#aboutme{
+    margin-top: 10px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+   
+}
+table, th, td {
+    border: 2px solid black;
+    font-weight:bold;
+    text-emphasis: none;
+    text-align: center;
+    padding: 20px;
+}
+table{
+    width: 100%;
+    background-color: #f1f1c1;
+    
+}
+tr{
+    margin: 10px;
+}
